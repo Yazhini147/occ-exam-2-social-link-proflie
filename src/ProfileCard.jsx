@@ -6,7 +6,7 @@ function ProfileCard() {
     <main>
       <section id="links-profile-container">
         <div className="avatar-img">
-          <img src="/images/avatar-jessica.jpeg" alt="Profile Avatar" />
+                   <img src="/images/avatar-jessica.jpeg" alt="Profile Avatar" />
         </div>
         <div className="profile-text">
           <h1>Jessica Randall</h1>
